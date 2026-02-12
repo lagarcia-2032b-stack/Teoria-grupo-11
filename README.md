@@ -19,7 +19,7 @@ Nuestra colaboración se basa en principios de *Clean Code* y desarrollo colabor
 
 ## 🎓 Información Académica
 * **Programa:** Programación Avanzada.
-* **Institución:** [Nombre de la Institución].
+* **Institución:** corporacion universitaria del Huila - Corhuila
 * **Objetivo:** Aplicar conceptos de concurrencia, gestión de memoria y paradigmas de programación avanzados para construir software escalable y eficiente.
 
 ---
