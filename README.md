@@ -1,46 +1,44 @@
-# Teoria-grupo-11
-trabajo con tovar
-# Proyecto de Programación Avanzada 🚀
+# Programación Avanzada | Repositorio de Desarrollo
 
-Bienvenido al repositorio oficial de nuestro equipo para la asignatura de **Programación Avanzada**. Aquí se encuentran documentados los algoritmos, desarrollos y soluciones implementadas durante el curso.
+![Status](https://img.shields.io/badge/Status-En%20Desarrollo-green)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
-## 👥 Integrantes
-* **Luis Angel Garcia**
-* **Tovar Monje**
+Este repositorio contiene las soluciones técnicas, algoritmos y proyectos desarrollados en el marco del programa de **Programación Avanzada**. El enfoque principal reside en la implementación de patrones de diseño, optimización de recursos y el uso de estructuras de datos complejas para la resolución de problemas de ingeniería.
 
 ---
 
-## 📚 Información del Programa
-* **Programa:** Programación Avanzada
-* **Institución:** [Nombre de tu Institución]
-* **Semestre:** 2026-1
+## 👥 Equipo de Desarrollo
+Nuestra colaboración se basa en principios de *Clean Code* y desarrollo colaborativo.
+
+| Nombre | Rol | GitHub |
+| :--- | :--- | :--- |
+| **Luis Angel Garcia** | Desarrollador Principal | [@usuario_luis](#) |
+| **Tovar Monje** | Desarrollador Principal | [@usuario_tovar](#) |
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
-En este repositorio aplicamos conceptos avanzados utilizando:
-* **Lenguajes:** [Ej: Python / C++ / Java]
-* **Paradigma:** Orientado a Objetos, Funcional y Concurrente.
-* **Control de Versiones:** Git & GitHub.
+## 🎓 Información Académica
+* **Programa:** Programación Avanzada.
+* **Institución:** [Nombre de la Institución].
+* **Objetivo:** Aplicar conceptos de concurrencia, gestión de memoria y paradigmas de programación avanzados para construir software escalable y eficiente.
 
 ---
 
-## 📂 Estructura del Proyecto
-A continuación, se detalla la organización de las carpetas:
+## 🛠️ Stack Tecnológico
+Para el desarrollo de este programa, se han seleccionado las siguientes herramientas:
 
-| Carpeta | Descripción |
-| :--- | :--- |
-| `/src` | Código fuente principal del proyecto. |
-| `/docs` | Documentación técnica y diagramas de arquitectura. |
-| `/tests` | Pruebas unitarias y casos de uso. |
-| `/data` | Archivos de entrada o bases de datos locales. |
+* **Lenguajes:** [Especificar, ej: C++, Python 3.10+, Java 17]
+* **Entorno de Desarrollo:** [Ej: VS Code, IntelliJ IDEA, PyCharm]
+* **Gestión de Versiones:** Git mediante flujo de trabajo *Gitflow*.
 
 ---
 
-## 🚀 Instalación y Uso
+## 📁 Arquitectura del Repositorio
+La estructura del proyecto está organizada siguiendo estándares de la industria para facilitar la mantenibilidad:
 
-Para replicar este proyecto localmente, sigue estos pasos:
-
-1. **Clonar el repositorio:**
-   ```bash
-   git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
+```text
+├── src/                # Código fuente principal (.py, .cpp, .java)
+├── include/            # Cabeceras y definiciones (si aplica)
+├── tests/              # Pruebas unitarias y de integración
+├── docs/               # Documentación técnica y diagramas UML
+└── data/               # Conjuntos de datos y recursos externos
